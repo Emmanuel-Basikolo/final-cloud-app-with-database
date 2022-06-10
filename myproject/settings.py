@@ -28,7 +28,8 @@ DEBUG = True
 
 # <HINT> add your cloud host here
 ALLOWED_HOSTS = [
-    'django-apps-final-assessment-24.us-south.cf.appdomain.cloud'
+    'django-apps-final-assessment-24.us-south.cf.appdomain.cloud',
+    'localhost'
 ]
 
 
